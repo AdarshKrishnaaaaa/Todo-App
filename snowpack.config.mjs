@@ -29,6 +29,5 @@ export default {
   },
   buildOptions: {
     /* ... */
-    out:'build'
   },
 };
